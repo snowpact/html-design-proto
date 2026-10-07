@@ -1,0 +1,14 @@
+{
+  "name": "html-design-proto",
+  "version": "0.1.0",
+  "description": "Clickable single-file design prototypes that replay real app screens to settle a product decision",
+  "main": "design-proto.js",
+  "style": "design-proto.css",
+  "bin": {
+    "html-design-proto": "bin/build.js"
+  },
+  "files": ["design-proto.js", "design-proto.css", "bin", "README.md"],
+  "keywords": ["prototype", "design", "presentation", "mockup", "product"],
+  "repository": { "type": "git", "url": "git+https://github.com/snowpact/html-design-proto.git" },
+  "license": "MIT"
+}
